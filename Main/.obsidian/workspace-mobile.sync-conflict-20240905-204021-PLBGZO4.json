@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "8c2800c1415d2a03",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e7deb960c0d7608",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cb56dff806f42b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/Termux/Personalização/Instalar Fontes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "341832adcd0f8fd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/Termux/Personalização/Mudar de tema(indicador).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88af71e8d3956275",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/Termux/Personalização/Mudar de tema(indicador).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "832c7b294a10048d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/Termux/Personalização/Instalar Plugins no Zsh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7195d73bcc998a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/Computação/Linux/ArchLinux/Configurar Wi-Fi no terminal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3874a89e488a6424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tecnologia/Computação/Linux/ArchLinux/Instalação/Passo a passo com archinstall.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9768c8eec2f5ea27",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "83a1d80885cc4ca2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geografia/Movimentos e Divisões da Terra/Equinócio, Solstício e Estações do Ano.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1e4abac5b65355a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2bfabb3be0eb64c9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "67dc6fae81479107",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTime"
+          }
+        }
+      },
+      {
+        "id": "4c01b918eb32a465",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fb70cd549ffafee5",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": false
+          }
+        }
+      },
+      {
+        "id": "55c1baf7feb1544b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "57fd03ad5eb44081",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7a1b78597715353b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "248f54ab5d76914f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a6eda21ae3931368",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b4ad9bf644bbf8ae",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workspaces:Gerenciar leiautes da área de trabalho": false,
+      "graph:Abrir visualização em gráfico": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "random-note:Abrir nota aleatória": false
+    }
+  },
+  "active": "9768c8eec2f5ea27",
+  "lastOpenFiles": [
+    "Tecnologia/Computação/Linux/ArchLinux/Instalação da Steam(runtime) e Evitar problemas de conexão em downloads dela.md",
+    "Tecnologia/Computação/Linux/ArchLinux/Sem título.md",
+    "Tecnologia/Termux/Personalização/Instalar Fontes.md",
+    "Tecnologia/Computação/Linux/ArchLinux/Configuração de EDITOR padrão.md",
+    "Tecnologia/Computação/Linux/ArchLinux/Configura.md",
+    "Tecnologia/Computação/Linux/Instalar filesystem em pen-drive.md",
+    "Tecnologia/Computação/Linux/Pendrive não aparece.md",
+    "Sem título",
+    "Tecnologia/Computação/Processadores/Arquitetura de Processadores.md",
+    "Tecnologia/Computação/Linux/ArchLinux/Configurar Wi-Fi no terminal.md",
+    "Tecnologia/Computação/Linux/ArchLinux/Configuração de teclado.md",
+    "Tecnologia/Computação/Linux/ArchLinux/Lidar com pacotes corrompidos com pacman-key.md",
+    "Tecnologia/Computação/Linux/ArchLinux/Instalação/Passo a passo com archinstall.md",
+    "Tecnologia/Computação/Linux/ArchLinux/Instalação/Mudar disco para GPT.md",
+    "Tecnologia/Computação/Linux/ArchLinux/Instalação/Passo a passo sem archinstall.md",
+    "Geografia/Cartografia/Definição de Mapas e Cartas.md",
+    "Geografia/Cartografia/Conceito de Escala.md",
+    "Geografia/Cartografia/Elementos do Mapa.md",
+    "Geografia/Cartografia/~ Principais Projeções Cartográficas.md",
+    "Geografia/Cartografia/Problemática da Representação Da Terra Sobre Uma Superfície Plana.md",
+    "Geografia/Movimentos e Divisões da Terra/Movimentos da Terra.md",
+    "Geografia/Movimentos e Divisões da Terra/Equinócio, Solstício e Estações do Ano.md",
+    "Geografia/Movimentos e Divisões da Terra/Coordenadas Geográficas e Divisão do Globo.md",
+    "Geografia/Movimentos e Divisões da Terra/Zonas de Iluminação.md",
+    "Geografia/Movimentos e Divisões da Terra/Fuso Horário.md",
+    "Geografia/Cartografia/História da Cartografia.md",
+    "Geografia/Elementos do Clima e Fatores Climáticos/Clima e Tempo.md",
+    "Como instalar o Arch Linux para iniciantes_ tutorial passo a passo! - Diolinux",
+    "Tecnologia/Computação/Linux/ArchLinux/Instalação",
+    "Tecnologia/Computação/Linux/ArchLinux",
+    "Tecnologia/Computação/Linux",
+    "Tecnologia/Termux/Problemas com pip",
+    "Tecnologia/Termux/Personalização",
+    "Tecnologia/Termux",
+    "Screenshot_20240428_172336_ReadEra 1.jpg",
+    "Screenshot_20240428_180435_ReadEra.jpg",
+    "Screenshot_20240428_213129_ReadEra.jpg",
+    "~ TCP",
+    "~ TCP ",
+    "Nota.Introducao.Redacao.jpg",
+    "Screenshot_20240501_201927_ReadEra.jpg",
+    "Screenshot_20240501_201529_ReadEra.jpg",
+    "Screenshot_20240501_201120_ReadEra.jpg",
+    "Screenshot_20240428_172336_ReadEra.jpg",
+    "Sociologia/Sem título.canvas",
+    "Biologia/Sem título.canvas"
+  ]
+}

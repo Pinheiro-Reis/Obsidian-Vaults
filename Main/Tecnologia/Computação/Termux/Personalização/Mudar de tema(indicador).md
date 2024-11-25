@@ -1,0 +1,1 @@
+instale o tema no formato .zsh-theme na pasta ~/oh-my-zsh/themes ([[Intalar o oh-my-zsh]]) e depois mude o tema no arquivo ~/.zshrc (Em ZSH_THEME="xxx") para esse que você quer, ignorando a parte ".zsh-theme", ou seja, poe só o nome.

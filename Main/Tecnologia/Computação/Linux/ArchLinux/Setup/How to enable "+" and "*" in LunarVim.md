@@ -1,0 +1,1 @@
+installing *wl-clipboard* 

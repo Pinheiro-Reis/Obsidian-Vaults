@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "path:Tecnologia  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Tecnologia/Computação/Linux  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:Tecnologia/Computação/Hardware  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Tecnologia/Computação/Termux  ",
+      "color": {
+        "a": 1,
+        "rgb": 1220096
+      }
+    },
+    {
+      "query": "path:\"Tecnologia/Redes De Computadores\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7536895
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.227,
+  "collapse-forces": false,
+  "centerStrength": 0.502857142857143,
+  "repelStrength": 10.0571428571429,
+  "linkStrength": 0.502857142857143,
+  "linkDistance": 250,
+  "scale": 0.3164287115048861,
+  "close": false
+}

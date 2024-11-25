@@ -1,0 +1,2 @@
+1. vá no terminal e use "lsblk" para ver os blocos (discos), se o pendrive aparecer vá para o passo 2
+2. intale novamente o filesystem no pendrive, recomendado ser o ext4 ([[Instalar filesystem em pen-drive]])

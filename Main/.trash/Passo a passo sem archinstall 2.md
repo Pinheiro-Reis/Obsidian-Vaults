@@ -1,0 +1,1 @@
+![[Como instalar o Arch Linux para iniciantes_ tutorial passo a passo! - Diolinux]]

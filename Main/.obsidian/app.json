@@ -1,0 +1,33 @@
+{
+  "readableLineLength": true,
+  "spellcheck": false,
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-wikilink",
+    "editor:insert-link",
+    "editor:toggle-bold",
+    "editor:toggle-numbered-list",
+    "editor:toggle-bullet-list",
+    "editor:set-heading",
+    "editor:toggle-italics",
+    "editor:insert-tag",
+    "editor:insert-embed",
+    "editor:attach-file",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:configure-toolbar"
+  ],
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "userIgnoreFilters": null,
+  "promptDelete": false,
+  "showLineNumber": false,
+  "attachmentFolderPath": "./"
+}
