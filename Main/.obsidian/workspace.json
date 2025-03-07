@@ -40,10 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -168,16 +169,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Abrir visualização em gráfico": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "random-note:Abrir nota aleatória": false,
-      "workspaces:Gerenciar leiautes da área de trabalho": false,
-      "canvas:Criar novo canvas": false
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "783bbd25cc1224f2",
   "lastOpenFiles": [
+    "Cristianismo/Catoliscismo/Sacramentos",
+    "Cristianismo/Catoliscismo/História",
+    "Cristianismo/Catoliscismo",
+    "Cristianismo",
     "Tecnologia/Computação/Linux/ArchLinux/Sistema/Security/How to install AppArmor when using Grub.md",
     "Tecnologia/Computação/Bits Basic.md",
     "Tecnologia/Computação/Linux/ArchLinux/Sistema/Security/~Backup de Sistema.md",
@@ -206,14 +211,10 @@
     "Tecnologia/Computação/Linux/ArchLinux/Instalar Easy Effects Junto Com as Dependências.md",
     "Tecnologia/Computação/Linux/ArchLinux/Instalação da Steam(runtime) e Evitar problemas de conexão em downloads.md",
     "Tecnologia/Computação/Linux/ArchLinux/Programação/SQL/Principais Comandos SQL.md",
-    "Tecnologia/Computação/Linux/ArchLinux/Programação/SQL/Maniplulação de arquivos no MariaDB ou MySQL.md",
     "Tecnologia/Computação/Linux/ArchLinux/Programação/SQL/Setup",
     "Tecnologia/Computação/Linux/ArchLinux/Programação/SQL/Setup/MariaDB",
     "Tecnologia/Computação/Linux/ArchLinux/Programação/MariaDB/MariaDB",
     "Tecnologia/Computação/Linux/ArchLinux/Programação/SQL/Setup/phpMyAdmin",
-    "Tecnologia/Computação/Linux/ArchLinux/'",
-    "Tecnologia/Computação/Linux/ArchLinux/Rede/Apache",
-    "Tecnologia/Computação/Linux/ArchLinux/Programação/PHP",
-    "Tecnologia/Computação/Linux/ArchLinux/Programação/SQL"
+    "Tecnologia/Computação/Linux/ArchLinux/'"
   ]
 }
