@@ -1,0 +1,1 @@
+https://linux-hardware.org/?probe=eeef8f244c&log=edid

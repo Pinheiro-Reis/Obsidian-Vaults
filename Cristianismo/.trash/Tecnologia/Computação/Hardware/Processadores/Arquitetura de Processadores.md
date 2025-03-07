@@ -1,0 +1,6 @@
+- É baseada na forma como são construídos os processadores, fisicamente falando
+- Diferentes arquiteturas levam a compatibilidade diferente com sistemas operacionais diferentes, além de cada uma possuir suas vantagens
+- **ARM:** são ideais para dispositivos móveis, visto que dissipam menos calor e consomem menos energia
+- **x86:** são usados principalmente para dispositivos maiores e mais potentes, visto que dissipam mais calor e consomem mais energia
+- **x64:** são x86 que são capazes de processar instruções maiores, em 64 bits, mas é um nome opcional
+- ARM e x86/64 estão cada vez mais parecidos, um alcançando o outro

@@ -1,0 +1,1 @@
+Clone o repositório (ou pasta) com o plugin em ~/.oh-my-zsh/custom/plugins e depois, no arquivo ~/.zshrc, na linha plugin=(xxx), ponha dentro dos parênteses os nomes sas pastas espaçados e sem vírgula.

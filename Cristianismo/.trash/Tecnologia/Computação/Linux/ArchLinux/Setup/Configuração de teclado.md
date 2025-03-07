@@ -1,0 +1,1 @@
+"loadkey br-abnt2" para adaptar ao meu teclado

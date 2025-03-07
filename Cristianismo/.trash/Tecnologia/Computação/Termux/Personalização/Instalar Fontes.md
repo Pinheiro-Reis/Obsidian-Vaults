@@ -1,0 +1,1 @@
+Para isso copie a fonte (.ttf) para ~/.termux/fontes.ttf, nesse caso ela será nomeada como fontes.ttf

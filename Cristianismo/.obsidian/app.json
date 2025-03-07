@@ -29,5 +29,6 @@
   "userIgnoreFilters": null,
   "promptDelete": false,
   "showLineNumber": false,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "strictLineBreaks": false
 }

@@ -1,0 +1,1 @@
+IP está mais relacionada com a comunicação com a rede externa, ou entre a interna e a externa, MAC está relacionado com a comunicação feita dentro de uma rede local.
