@@ -5,6 +5,6 @@ Dito isso, historicamente, no abandono à religião católica os protestantes, p
 voltar às origens do cristianismo, observaram que o cânon judeu era diferente, dessa forma decidiram os seguir, uma vez que não estavam sob a influência católica.
 
 Porém, vale citar que os judeus, decidindo não aderir ao cânon cristão - usado pelos
-apóstolos - estavam na verdade recusando o cristianismo também - eles "excomungaram" os cristãos - sendo assim a autoridade deles nega Cristo e os apóstolos, sendo assim contrária a autoridade cristã de fato. Tal carrega grande controvérsia, uma vez que os protestantes seguem uma autoridade - sobre o AT - que é contra eles próprios, uma vez que é contra Cristo.
+apóstolos - estavam na verdade recusando o cristianismo também - eles "excomungaram" os cristãos - sendo assim a autoridade deles nega Cristo e os apóstolos, sendo assim contrária a autoridade cristã de fato. Tal carrega grande controvérsia, uma vez que os protestantes seguem uma autoridade - sobre o AT - que é contra eles próprios, uma vez que é contra Cristo. 
 
 

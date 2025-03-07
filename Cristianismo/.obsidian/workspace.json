@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "726cd03eb6bed6bf",
+        "id": "4142fc1e129d0754",
         "type": "tabs",
         "children": [
           {
-            "id": "246101741700b93d",
+            "id": "93831c4ab70fd8f5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Catolicismo/Questionamentos/Dogmas Marianos/Virgindade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Virgindade"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "refle",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 200
   },
   "right": {
     "id": "4fd41dcea040c3b2",
@@ -83,6 +87,7 @@
       {
         "id": "f78b6e6dce4348b5",
         "type": "tabs",
+        "dimension": 70.67307692307693,
         "children": [
           {
             "id": "48cb86a309c213d0",
@@ -90,16 +95,17 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Catolicismo/Questionamentos/Dogmas Marianos/Virgindade.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Virgindade"
             }
           },
           {
@@ -108,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tecnologia/Computação/Linux/ArchLinux/Sistema/Security/How to install AppArmor when using Grub.md",
+                "file": "Catolicismo/Questionamentos/Dogmas Marianos/Virgindade.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para How to install AppArmor when using Grub"
+              "title": "Outgoing links from Virgindade"
             }
           },
           {
@@ -123,22 +129,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "460f4c5753760fbc",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Tecnologia/Computação/Linux/ArchLinux/Sistema/Security/How to install AppArmor when using Grub.md"
-              },
-              "icon": "lucide-list",
-              "title": "Sumário de How to install AppArmor when using Grub"
             }
           },
           {
@@ -154,12 +150,45 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "752d389b0879823f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "3e45952590bfd60d",
+        "type": "tabs",
+        "dimension": 29.326923076923077,
+        "children": [
+          {
+            "id": "460f4c5753760fbc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Catolicismo/Questionamentos/Dogmas Marianos/Virgindade.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Virgindade"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,12 +198,22 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "246101741700b93d",
+  "active": "752d389b0879823f",
   "lastOpenFiles": [
-    "Cristianismo/Catolicismo/Questionamentos/Bíblia Maior.md",
+    "Catolicismo/Questionamentos/Bíblia Católica.md",
+    "Catolicismo/Questionamentos/Dogmas Marianos/Virgindade.md",
+    "Catolicismo/Questionamentos/Dogmas Marianos/Imaculada Conceição.md",
+    "Catolicismo/Questionamentos/Dogmas Marianos",
+    "Catolicismo/Questionamentos/Salvação no Catolicismo.md",
+    "Untitled",
+    "Catolicismo/Questionamentos/Uso de Imagens.md",
+    "Catolicismo/Questionamentos/outras.md",
+    "Catolicismo/Questionamentos/Santos Intercessores.md",
+    "Templates/Quote.md",
     "Cristianismo/Catoliscismo/Questionamentos/bla bla bla.md",
     "Templates/teste.md",
     "teste 2.md",
@@ -183,10 +222,10 @@
     "teste 1.md",
     "202503071030.md",
     "Tecnologia/Computação/Bits Basic.md",
-    "Cristianismo/Catolicismo/Questionamentos",
-    "Cristianismo/Catolicismo/Sacramentos",
-    "Cristianismo/Catolicismo/História",
-    "Cristianismo/Catolicismo",
+    "Catolicismo/Questionamentos",
+    "Catolicismo/Sacramentos",
+    "Catolicismo/História",
+    "Catolicismo",
     "Cristianismo",
     "Tecnologia/Computação/Linux/ArchLinux/Sistema/Security/How to install AppArmor when using Grub.md",
     "Tecnologia/Computação/Linux/ArchLinux/Sistema/Security/~Backup de Sistema.md",
@@ -201,15 +240,6 @@
     "Tecnologia/Computação/Linux/ArchLinux/Setup/Configurando fonte do terminal com interface GNOME.md",
     "Tecnologia/Computação/Linux/ArchLinux/Setup/How to enable \"+\" and \"*\" in LunarVim.md",
     "Tecnologia/Computação/Linux/ArchLinux/Sistema/Security",
-    "Tecnologia/Programation/Print in C language.md",
-    "Tecnologia/Computação/Linux/ArchLinux/yay pede intervenção manual e dá erro.md",
-    "Tecnologia/Programation",
-    "Tecnologia/Computação/Linux/ArchLinux/Sistema/Cronie.md",
-    "Tecnologia/Computação/Linux/ArchLinux/Sistema/Audio com PipeWire.md",
-    "Tecnologia/Computação/Linux/ArchLinux/Sistema/~Backup de Sistema.md",
-    "Tecnologia/Computação/Linux/ArchLinux/Setup/Configuração de teclado.md",
-    "Tecnologia/Computação/Linux/ArchLinux/Setup/Configuração de EDITOR padrão.md",
-    "Tecnologia/Computação/Linux/ArchLinux/Programação/SQL/Setup",
-    "Tecnologia/Computação/Linux/ArchLinux/Programação/SQL/Setup/MariaDB"
+    "Tecnologia/Programation"
   ]
 }

@@ -30,5 +30,6 @@
   "promptDelete": false,
   "showLineNumber": false,
   "attachmentFolderPath": "./",
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showUnsupportedFiles": true
 }
