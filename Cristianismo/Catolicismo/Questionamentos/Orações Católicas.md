@@ -1,0 +1,2 @@
+A princípio, vejo que há uma tendência às repetições, mas analisando o assunto, este
+[vídeo](https://www.youtube.com/watch?v=6tQvKilPrZc&list=WL&index=2) mostra uma forma notavelmente supreendente (para mim) de se falar com Deus por parte dos católicos.
