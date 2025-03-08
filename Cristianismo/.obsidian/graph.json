@@ -5,10 +5,10 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:Cristianismo/Catolicismo  ",
+      "query": "path:Catolicismo  ",
       "color": {
         "a": 1,
         "rgb": 16776960
@@ -25,6 +25,6 @@
   "repelStrength": 15,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.11327439907466563,
+  "scale": 0.7023319615912208,
   "close": true
 }

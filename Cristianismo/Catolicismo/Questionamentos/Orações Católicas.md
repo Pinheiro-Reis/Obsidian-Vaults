@@ -1,2 +1,2 @@
 A princípio, vejo que há uma tendência às repetições, mas analisando o assunto, este
-[vídeo](https://www.youtube.com/watch?v=6tQvKilPrZc&list=WL&index=2) mostra uma forma notavelmente supreendente (para mim) de se falar com Deus por parte dos católicos.
+[vídeo](https://www.youtube.com/watch?v=6tQvKilPrZc&list=WL&index=2) mostra uma forma notavelmente supreendente (para mim) de se falar com Deus por parte dos católicos. Me extendo sobre isso, os Salmos são repetitivos, Jesus cita uma oração, Jesus ora mais de uma vez com as mesmas palavras no monte das oliveiras, a missa é uma repetição - que mantém vivo o rito, por fim a parte da Bílblia que fala da oração repetida, na verdade, fala de "tagarelice", supostamente. Qual a diferença entre uma oração que é vã ou não?
