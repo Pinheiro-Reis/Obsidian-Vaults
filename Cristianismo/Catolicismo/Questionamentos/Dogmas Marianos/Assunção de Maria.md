@@ -1,3 +1,0 @@
-Seria o que aconteceu a Maria após a morte de Jesus Cristo. Nesse momento, Ma-
-ria teria sido levada de corpo e alma para estar com Deus e não morrido na Terra. Tal
-acontecimento se fundamenta unicamente na tradição, até onde sei. Após sua assunção ela permaneceria em sua missão junto ao salvador, mas agora intercedendo pelos fiés e os au xiliando, sendo conhecida como “advogada, auxiliadora, socorro e medianeira”, Catecismo §969. 

@@ -1,0 +1,4 @@
+Trata-se de um livro, promulgado por São João Paulo II, Papa da época, que contém uma síntese de toda a doutrina católica, unindo aquilo que vêm do Magistério, Sagradas Escrituras e Tradição da Igreja Católica Apostólica Romana e elementos da Ortodoxa também. O desejo por um novo catecismo veio com a realização do [[Catolicismo/Concílio Vaticano II|Concílio Vaticano II]], uma vez que se queria definir as mudanças que esse realizou no Catolicismo. Seu principal redator foi Papa Bento XVI
+
+### Divisões
+O livro é dividido em quatro partes interligadas, que tratam principalmente de: Profissão da Fé (mistério cristão), Celebração do Mistério Cristão (o que é celebrado nos atos litúrgicos), vida em Cristo e oração

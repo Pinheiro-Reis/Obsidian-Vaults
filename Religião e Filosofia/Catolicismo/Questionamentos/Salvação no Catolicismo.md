@@ -1,7 +1,7 @@
 A salvação se daria pela fé (às vezes são citados: batismo, clamar o nome de Deus,
 guardar os mandamentos) que a Bíblia diz estar morta se não houverem obras. Uma analogia possível é de que não há vida sem movimento, as obras seriam como movimento, que sinalizam a existência de fé viva, algo razoável perante o fácil raciocínio de que não adianta muita coisa uma fé que não se torne obras, uma fé que seja unicamente falada e pensada, mas que na realidade material é imperceptível. A salvação no caso não se baseia no mérito humano, uma vez que é impossível amar a Cristo sem a graça que ele próprio concebeu, logo o mérito é necessariamente de Cristo, sendo a fé - morta se não acompanhada por obras, as quais ela logicamente implica - necessária para salvação. Evidência forte há em Coríntios 3:12-15, que diz: 
 
-**Bíblia Sagrada Católica**
+**Bíblia Sagrada Católica** ([[Bíblia Católica]])
 > *“11. Quanto ao fundamento, ninguém pode pôr outro diverso daquele que já foi posto: Jesus Cristo. 12. Agora, se alguém edifica sobre este fundamento, com ouro, ou com prata, ou com pedras preciosas, com madeira, ou com feno, ou com palha, 13. a obra de cada um aparecerá. O dia (do julgamento) emonstrálo-á. Será descoberto pelo fogo; o fogo provará o que vale o trabalho de cada um. 14. Se a construção resistir, o construtor receberá a recompensa. 15. Se pegar fogo, arcará com os danos. Ele será salvo, porém passando de alguma maneira através do fogo. 16. Não sabeis que sois o templo de Deus, e que o Espírito de Deus habita em vós?”*
 
 **Bíblia Almeida Corrigida e Fiel**
